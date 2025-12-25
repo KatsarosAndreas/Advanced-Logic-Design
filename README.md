@@ -4,7 +4,7 @@ Digital circuit design and implementation using **Logisim Evolution**—demonstr
 
 ## Overview
 
-This repository contains **7 comprehensive exercises** covering fundamental to advanced digital design concepts using Logisim Evolution—essential skills for FPGA development, ASIC design, and computer architecture engineering.
+This repository contains exercises covering fundamental to advanced digital design concepts using Logisim Evolution—essential skills for FPGA development, ASIC design, and computer architecture engineering.
 
 **Key Focus Areas:**
 - **Combinational Logic**: Adders, multiplexers, decoders, encoders
