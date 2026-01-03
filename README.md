@@ -97,7 +97,7 @@ This repository contains exercises covering fundamental to advanced digital desi
 
 ---
 
-### Final Project: Complete Processor Datapath
+### Final Project: Complete Processor Datapath GRADE ACQUIRED:10.0
 **Comprehensive Design:**
 - **Instruction Set Architecture**: Custom 8-bit processor
 - **Datapath Components**:
